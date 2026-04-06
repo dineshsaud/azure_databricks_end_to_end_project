@@ -6,7 +6,7 @@ from pyspark.sql.types import *
 
 EH_NAMESPACE="rg-ns-dbhproject"
 EH_NAME="orders"
-EH_CONN_STR = "Endpoint=sb://rg-ns-dbhproject.servicebus.windows.net/;SharedAccessKeyName=databricks-read-policy;SharedAccessKey=x4bRBvGVoyez79k7Lq2qaZhX8E6EYIEjh+AEhDP7rck="
+EH_CONN_STR = ""
 
 # COMMAND ----------
 
